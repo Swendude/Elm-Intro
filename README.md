@@ -6,7 +6,7 @@ Somewhat following guide.elm-lang.org.
     - NEVER EVER ANYMORE: _'undefined' is not a function_
     - Typing!
     - Compiler!
-    - Built in semver
+    - Built in server
     - Community
     - Pedagogy included
     - Things that might look easy in Elm are hard in JS
