@@ -22,10 +22,14 @@ Somewhat following guide.elm-lang.org.
     - You start hating imperative programming
 
 - What are (pure) functions?
+    - Complete (It 'covers' all of the input values of a certain type)
+        -> For every x, f(x) is valid
     - Deterministic
-    - Complete
+        -> f(x) == f(x)
     - Side-effect free
+        -> Running a function changes nothing about the world!
     - Type-defined
+        -> For every function we know EXACTLY what types it 'works' with (what is input and what is output)
 - What are side-effects?
 - Higher order functions
     - Functions you already know: Map, Fold?, Reduce?

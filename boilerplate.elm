@@ -40,3 +40,9 @@ view model =
   div []
     [ text "Hello world!"
     ]
+
+
+abs x = if x > 0 then
+            x
+        else
+            negate x
